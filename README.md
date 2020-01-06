@@ -34,7 +34,9 @@ While the insurance policy is in effect, should a legitimate claim arise, the in
 
 The total amount that Insurers collect as premiums, less the total amount paid out in claims, forms the basis of underwriting gain/loss. If within a given window (e.g. 12 months), the total premiums collected is greater than claims paid, then the result is an underwriting gain. Otherwise, it is an underwriting loss.
 
-Meanwhile, what happens to all the premiums collected by an Insurer? Some of the amount will be put in 'reserve' to pay for known claims (that have already been notified) and future anticipated claims (calculated based on various statistical records). Some of the amount will be used for various operating expenses and/or capital expenditure. The remaining amount is usually invested in various financial instruments.<br><br>
+Meanwhile, what happens to all the premiums collected by an Insurer? Some of the amount will be put in 'reserve' to pay for known claims (that have already been notified) and future anticipated claims (calculated based on various statistical records). Some of the amount will be used for various operating expenses and/or capital expenditure. The remaining unallocated amount, and some portion of the amount that is allocated as 'reserved', is usually invested in various financial instruments. 
+
+<br><br>
 
 As such, insurers have 2 streams of profit/loss:<br>
 - Underwriting gain/loss
