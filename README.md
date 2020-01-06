@@ -36,8 +36,6 @@ The total amount that Insurers collect as premiums, less the total amount paid o
 
 Meanwhile, what happens to all the premiums collected by an Insurer? Some of the amount will be put in 'reserve' to pay for known claims (that have already been notified) and future anticipated claims (calculated based on various statistical records). Some of the amount will be used for various operating expenses and/or capital expenditure. The remaining unallocated amount, and some portion of the amount that is allocated as 'reserved', is usually invested in various financial instruments. 
 
-<br><br>
-
 As such, insurers have 2 streams of profit/loss:<br>
 - Underwriting gain/loss
 - Investment profit/loss
