@@ -17,7 +17,7 @@ Capstone Project:<br><br>
 11) "data/output/" folder - the extracted tables as PDF documents
 
 <br>The above filenames are self-explanatory.
-<br>For the project, the Classification Models (Item 5) are used.
+<br>For the project, the Classification Models (Item 6) are used.
 <br>Annex-1 (Items 7-9) forms the set of code used to explore Regression Models. However, the regression results were not acceptable. The code is nonetheless included in this submission for reference.<br><br>
 
 # Background
